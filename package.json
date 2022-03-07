@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-re-taro",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Shareable ESLint config for Rintaro.",
   "keywords": [
     "eslint",
@@ -21,7 +21,6 @@
   "publishConfig": {
     "access": "public"
   },
-  "type": "module",
   "scripts": {
     "fmt": "prettier --write ./*.{js,json}"
   },
