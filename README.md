@@ -1,9 +1,6 @@
 # eslint-config-re-taro
 Shareable ESLint config for Rintaro.
 
-### Warning
-This config is used and will be modified by me, so early versions may cause unexpected ESLint errors.
-
 ## Usage
 
 ### For JavaScript
