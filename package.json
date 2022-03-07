@@ -1,0 +1,66 @@
+{
+  "name": "eslint-config-re-taro",
+  "version": "1.0.0",
+  "description": "Shareable ESLint config for Rintaro.",
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/re-taro/eslint-config-re-taro"
+  },
+  "author": {
+    "name": "Rintaro Itokawa",
+    "email": "me@re-taro.dev",
+    "url": "https://www.re-taro.dev/"
+  },
+  "main": "index.js",
+  "license": "MIT",
+  "bugs": "https://github.com/re-taro/eslint-config-re-taro/issues",
+  "publishConfig": {
+    "access": "public"
+  },
+  "type": "module",
+  "scripts": {
+    "fmt": "prettier --write ./*.{js,json}"
+  },
+  "dependencies": {
+    "@emotion/eslint-plugin": "^11.7.0",
+    "@typescript-eslint/eslint-plugin": "^5.13.0",
+    "@typescript-eslint/parser": "^5.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-compat": "^4.0.2",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-jest": "^26.1.1",
+    "eslint-plugin-json-format": "^2.0.1",
+    "eslint-plugin-jsonc": "^2.2.1",
+    "eslint-plugin-jsx-a11y": "^6.5.1",
+    "eslint-plugin-mdx": "^1.16.0",
+    "eslint-plugin-no-secrets": "^0.8.9",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.29.3",
+    "eslint-plugin-react-hooks": "^4.3.0",
+    "eslint-plugin-regexp": "^1.5.1",
+    "eslint-plugin-security": "^1.4.0",
+    "eslint-plugin-sonarjs": "^0.12.0",
+    "eslint-plugin-sort-keys-fix": "^1.1.2",
+    "eslint-plugin-toml": "^0.3.0",
+    "eslint-plugin-unicorn": "^40.0.0",
+    "eslint-plugin-yml": "^0.14.0",
+    "jest": "^27.5.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "prettier": "^2.5.1"
+  },
+  "peerDependencies": {
+    "eslint": "6.x || 7.x || 8.x"
+  },
+  "optionalDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
