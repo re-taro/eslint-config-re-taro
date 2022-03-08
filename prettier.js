@@ -5,7 +5,6 @@ module.exports = {
   ],
   overrides: [
     {
-      extends: ['prettier/@typescript-eslint'],
       files: ['*.ts', '*.tsx']
     }
   ]
