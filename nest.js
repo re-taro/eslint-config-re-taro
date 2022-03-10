@@ -4,7 +4,7 @@ module.exports = {
     node: true
   },
   extends: ['plugin:@typescript-eslint/recommended', 'plugin:prettier/recommended'],
-  parser: ['@typescript-eslint/parser'],
+  parser: '@typescript-eslint/parser',
   plugins: ['@typescript-eslint/eslint-plugin'],
   rules: {
     '@typescript-eslint/explicit-function-return-type': 'off',
