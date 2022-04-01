@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-re-taro",
-  "version": "1.0.8",
+  "version": "1.1.0",
   "description": "Shareable ESLint config for Rintaro.",
   "keywords": [
     "eslint",
@@ -26,10 +26,14 @@
   },
   "dependencies": {
     "@emotion/eslint-plugin": "^11.7.0",
+    "@next/eslint-plugin-next": "^12.1.4",
+    "@rushstack/eslint-patch": "^1.1.1",
     "@typescript-eslint/eslint-plugin": "^5.8.0",
     "@typescript-eslint/parser": "^5.8.0",
     "eslint-config-prettier": "^8.3.0",
     "eslint-config-standard": "^16.0.3",
+    "eslint-import-resolver-node": "^0.3.6",
+    "eslint-import-resolver-typescript": "^2.7.0",
     "eslint-plugin-compat": "^4.0.0",
     "eslint-plugin-eslint-comments": "^3.2.0",
     "eslint-plugin-import": "^2.25.3",
