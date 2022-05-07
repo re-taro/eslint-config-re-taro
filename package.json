@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-re-taro",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "Shareable ESLint config for Rintaro.",
   "keywords": [
     "eslint",
@@ -57,7 +57,7 @@
     "jest": "^28.0.0"
   },
   "devDependencies": {
-    "eslint": "8.14.0",
+    "eslint": "8.15.0",
     "prettier": "2.6.2"
   },
   "optionalDependencies": {
