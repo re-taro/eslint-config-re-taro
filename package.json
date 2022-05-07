@@ -42,6 +42,7 @@
     "eslint-plugin-jsonc": "^2.0.0",
     "eslint-plugin-jsx-a11y": "^6.5.1",
     "eslint-plugin-mdx": "^1.16.0",
+    "eslint-plugin-n": "^15.2.0",
     "eslint-plugin-no-secrets": "^0.8.9",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-promise": "^6.0.0",
