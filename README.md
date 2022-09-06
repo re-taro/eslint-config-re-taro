@@ -44,5 +44,20 @@ extends:
   - re-taro/prettier
 ```
 
+### For Next.js
+```yaml
+extends:
+  - re-taro
+  - re-taro/react
+  - re-taro/next
+```
+
+### For NestJS
+```yaml
+extends:
+  - re-taro
+  - re-taro/nest
+```
+
 # License
 MIT License
