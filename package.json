@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-re-taro",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "description": "Shareable ESLint config for Rintaro.",
   "keywords": [
     "eslint",
