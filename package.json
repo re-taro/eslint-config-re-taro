@@ -26,7 +26,7 @@
   },
   "dependencies": {
     "@emotion/eslint-plugin": "^11.7.0",
-    "@next/eslint-plugin-next": "^12.1.4",
+    "@next/eslint-plugin-next": "^13.0.0",
     "@rushstack/eslint-patch": "^1.1.1",
     "@typescript-eslint/eslint-plugin": "^5.8.0",
     "@typescript-eslint/parser": "^5.8.0",
